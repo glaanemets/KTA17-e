@@ -9,3 +9,14 @@ C:\Users\test\source\Repos\kodu1\kodu1\obj\Debug\netcoreapp2.0\kodu1.AssemblyInf
 C:\Users\test\source\Repos\kodu1\kodu1\obj\Debug\netcoreapp2.0\kodu1.AssemblyInfo.cs
 C:\Users\test\source\Repos\kodu1\kodu1\obj\Debug\netcoreapp2.0\kodu1.dll
 C:\Users\test\source\Repos\kodu1\kodu1\obj\Debug\netcoreapp2.0\kodu1.pdb
+C:\Users\test\source\Repos\KTA17-e\kodu1\bin\Debug\netcoreapp2.0\kodu1.deps.json
+C:\Users\test\source\Repos\KTA17-e\kodu1\bin\Debug\netcoreapp2.0\kodu1.runtimeconfig.json
+C:\Users\test\source\Repos\KTA17-e\kodu1\bin\Debug\netcoreapp2.0\kodu1.runtimeconfig.dev.json
+C:\Users\test\source\Repos\KTA17-e\kodu1\bin\Debug\netcoreapp2.0\kodu1.dll
+C:\Users\test\source\Repos\KTA17-e\kodu1\bin\Debug\netcoreapp2.0\kodu1.pdb
+C:\Users\test\source\Repos\KTA17-e\kodu1\obj\Debug\netcoreapp2.0\kodu1.csprojResolveAssemblyReference.cache
+C:\Users\test\source\Repos\KTA17-e\kodu1\obj\Debug\netcoreapp2.0\kodu1.csproj.CoreCompileInputs.cache
+C:\Users\test\source\Repos\KTA17-e\kodu1\obj\Debug\netcoreapp2.0\kodu1.AssemblyInfoInputs.cache
+C:\Users\test\source\Repos\KTA17-e\kodu1\obj\Debug\netcoreapp2.0\kodu1.AssemblyInfo.cs
+C:\Users\test\source\Repos\KTA17-e\kodu1\obj\Debug\netcoreapp2.0\kodu1.dll
+C:\Users\test\source\Repos\KTA17-e\kodu1\obj\Debug\netcoreapp2.0\kodu1.pdb

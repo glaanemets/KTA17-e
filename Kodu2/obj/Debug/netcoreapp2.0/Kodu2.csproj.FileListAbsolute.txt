@@ -1,0 +1,11 @@
+C:\Users\test\source\Repos\KTA17-e\Kodu2\obj\Debug\netcoreapp2.0\Kodu2.csprojResolveAssemblyReference.cache
+C:\Users\test\source\Repos\KTA17-e\Kodu2\obj\Debug\netcoreapp2.0\Kodu2.csproj.CoreCompileInputs.cache
+C:\Users\test\source\Repos\KTA17-e\Kodu2\obj\Debug\netcoreapp2.0\Kodu2.AssemblyInfoInputs.cache
+C:\Users\test\source\Repos\KTA17-e\Kodu2\obj\Debug\netcoreapp2.0\Kodu2.AssemblyInfo.cs
+C:\Users\test\source\Repos\KTA17-e\Kodu2\bin\Debug\netcoreapp2.0\Kodu2.deps.json
+C:\Users\test\source\Repos\KTA17-e\Kodu2\bin\Debug\netcoreapp2.0\Kodu2.runtimeconfig.json
+C:\Users\test\source\Repos\KTA17-e\Kodu2\bin\Debug\netcoreapp2.0\Kodu2.runtimeconfig.dev.json
+C:\Users\test\source\Repos\KTA17-e\Kodu2\bin\Debug\netcoreapp2.0\Kodu2.dll
+C:\Users\test\source\Repos\KTA17-e\Kodu2\bin\Debug\netcoreapp2.0\Kodu2.pdb
+C:\Users\test\source\Repos\KTA17-e\Kodu2\obj\Debug\netcoreapp2.0\Kodu2.dll
+C:\Users\test\source\Repos\KTA17-e\Kodu2\obj\Debug\netcoreapp2.0\Kodu2.pdb
