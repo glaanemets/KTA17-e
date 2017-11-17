@@ -1,0 +1,6 @@
+C:\Users\test\source\Repos\KTA17-e\NOV17\tunnikontroll\obj\Debug\tunnikontroll.csproj.CoreCompileInputs.cache
+C:\Users\test\source\Repos\KTA17-e\NOV17\tunnikontroll\bin\Debug\tunnikontroll.exe.config
+C:\Users\test\source\Repos\KTA17-e\NOV17\tunnikontroll\bin\Debug\tunnikontroll.exe
+C:\Users\test\source\Repos\KTA17-e\NOV17\tunnikontroll\bin\Debug\tunnikontroll.pdb
+C:\Users\test\source\Repos\KTA17-e\NOV17\tunnikontroll\obj\Debug\tunnikontroll.exe
+C:\Users\test\source\Repos\KTA17-e\NOV17\tunnikontroll\obj\Debug\tunnikontroll.pdb
