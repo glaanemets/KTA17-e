@@ -10,7 +10,7 @@ namespace yl1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hjellowjorld");
+            Console.WriteLine("Hello world");
             Console.ReadLine();
         }
     }
