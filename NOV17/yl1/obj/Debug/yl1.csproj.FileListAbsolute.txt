@@ -1,0 +1,7 @@
+C:\Users\test\source\Repos\NOV17\yl1\bin\Debug\yl1.exe.config
+C:\Users\test\source\Repos\NOV17\yl1\bin\Debug\yl1.exe
+C:\Users\test\source\Repos\NOV17\yl1\bin\Debug\yl1.pdb
+C:\Users\test\source\Repos\NOV17\yl1\obj\Debug\yl1.csprojResolveAssemblyReference.cache
+C:\Users\test\source\Repos\NOV17\yl1\obj\Debug\yl1.csproj.CoreCompileInputs.cache
+C:\Users\test\source\Repos\NOV17\yl1\obj\Debug\yl1.exe
+C:\Users\test\source\Repos\NOV17\yl1\obj\Debug\yl1.pdb
