@@ -10,6 +10,7 @@ namespace tunnikontroll
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Linna resto\nNarva mnt 5b");
             float[] hinnad = new float[20];
             float kogusumma = 0;
@@ -29,8 +30,8 @@ namespace tunnikontroll
                 kogusumma += hinnad[j];
 
             Console.WriteLine($"Kogu summa:{kogusumma}");
-            Console.WriteLine($"15% kogu summast:{Math.Round((kogusumma * 0.15), 2)}");
-            Console.WriteLine($"Summa maksmisele {Math.Round((kogusumma * 0.85), 2)}");
+            Console.WriteLine($"15% kogu summast:€{Math.Round((kogusumma * 0.15), 2)}");
+            Console.WriteLine($"Summa maksmisele:€{Math.Round((kogusumma * 0.85), 2)}");
             Console.ReadLine();
         }
     }
